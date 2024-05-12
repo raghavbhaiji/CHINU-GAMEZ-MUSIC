@@ -25,8 +25,8 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
         {
-            host: "lava-v4.ajieblogs.eu.org",
-            password: "catfein",
+            host: "lava-v3.ajieblogs.eu.org",
+            password: "https://dsc.gg/ajidevserver",
             port: 80,
             secure: false
         },
